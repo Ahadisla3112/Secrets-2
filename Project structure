@@ -1,0 +1,7 @@
+fun-video-page/
+│
+├── index.html
+├── style.css
+├── script.js
+└── video/
+    └── https___www.youtube.com_watch.mp4
